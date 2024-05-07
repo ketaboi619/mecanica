@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background: #3a3d47;
+    font-family: verdana;
+}
+
+.contenedor{
+    width: 1200px;
+    background: white;
+    margin: 10px auto;
+}
+
+.up{
+    background: #1551a1;
+    overflow: hidden;
+}
+
+.logo1{
+    float: left;
+    width: 300px;
+    padding: 35px;
+}
+
+
+
+.menu{
+    float: left;
+    padding: 50px;
+}
+
+.opciones li{
+    float: left;
+    list-style: none;
+}
+
+.button{
+    padding: 10px;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+}
+
+.opciones li a:hover{
+    background: #0d356a;
+}
+
+.titulo{
+    color: #ff7600;
+    text-align: center;
+    padding: 15px 0 20px 0;
+    font-size: 25px;
+}
+
+.content{
+    overflow: hidden;
+}
+
+.caja{
+    float: left;
+    width: 380px;
+    margin: 8px;
+    border: 1px solid white;
+}
+
+
+.servicios{
+    background: #1551a1;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.efect:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.contenido{
+    border: black 1px solid;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: justify;
+    
+}
+
+.boton2{
+    background: #144a91;
+    padding: 15px 20px;
+    margin: 12px 0;
+    color: white;
+    border-radius: 5px;
+}
+
+.boton2:hover{
+    background: #0c2c57;
+    cursor: pointer;
+}
+
+.pie{
+    background:  #062348;
+    overflow: hidden;
+}
+
+.div-izq{
+    float: left;
+    width: 550px;
+    padding: 20px;
+}
+
+.div-der{
+    float: left;
+    width: 550px;
+    padding: 20px;
+}
+
+.partdwn{
+    color: white;
+    font-size: 15px;
+}
+
